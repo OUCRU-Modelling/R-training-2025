@@ -9,10 +9,6 @@ toc-depth: 2
 date: last-modified
 date-format: "MMMM D, YYYY -- HH:mm:ss (z)"
 ---
-# Upcoming in this April and May - R-cafe Short course {.unnumbered}
-https://oucru-modelling.github.io/R-cafe-materials/
-
-
 # Welcome to the OUCRU R training course - 2025 {.unnumbered}
 
 ## Course structure {.unnumbered}
@@ -160,3 +156,5 @@ Good introduction, with explanatory videos:
 
 ## R GUIs
 
+# Upcoming in this April and May - R-cafe Short course {.unnumbered}
+https://oucru-modelling.github.io/R-cafe-materials/
